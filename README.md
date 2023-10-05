@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="left">💡 Actividades:</h1>
+<h1 align="center">💡 Actividades: 💡</h1>
 
 ###
 
