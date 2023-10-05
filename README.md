@@ -1,5 +1,5 @@
 <div align="center">
-  ![sodvi](https://github.com/sodvi-games/sodvi-games/assets/112099506/85b057f7-e451-4d7c-802c-ea96f197245f)
+ ![sodvi](https://github.com/sodvi-games/sodvi-games/assets/112099506/b7b27123-f20a-4151-be90-d785b8fe16ba)
 </div>
 
 ###
