@@ -1,5 +1,5 @@
 <div align="center">
- ![sodvi](https://github.com/sodvi-games/sodvi-games/assets/112099506/b7b27123-f20a-4151-be90-d785b8fe16ba)
+  <img src="https://github.com/sodvi-games/sodvi-games/assets/112099506/27d29706-3e86-4a9f-be68-b085b9e628a8" alt="sodvi_logo" />
 </div>
 
 ###
@@ -103,7 +103,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://sodvi.com/img/Conjunto_sur_fi_unam.webp"  />
+  <img src="https://github.com/sodvi-games/sodvi-games/assets/112099506/875dfb63-cab0-4e9d-8081-363250e70d7c" alt="mapa_sodvi" />
 </div>
 
 ###
@@ -136,5 +136,9 @@
     <img src="https://raw.githubusercontent.com/github/explore/14a518abd710177a13d8c22077cfcd98506dd756/topics/tiktok/tiktok.png" width="52" height="40" alt="tiktok logo"  />
   </a>
 </div>
+
+###
+
+<p align="right">–Sebastián Buendía López<br>"SebzSZ"</p>
 
 ###
